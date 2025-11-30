@@ -8,7 +8,7 @@ public class Student {
         System.out.println("My Course is: " + course);
         System.out.println("My Roll Number is: " + rollno);
         System.out.println("=======================");
-        ystem.out.println("JENKINS-WEBHHOK-TRIIGER");
+        System.out.println("JENKINS-WEBHHOK-TRIIGER");
     }
 }
        
